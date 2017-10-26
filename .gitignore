@@ -3,3 +3,4 @@
 /keyrings/live/secring.gpg
 /secret_keys.yaml
 /wp_secrets.yaml
+/secret.text
